@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithms
-In this repositories, implementation of Machine Learning Algorithms will be included.
+In this repository, the implementation of Machine Learning Algorithms will be included.
